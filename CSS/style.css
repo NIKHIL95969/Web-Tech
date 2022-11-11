@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(95, 134, 232);
+    color: white;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16pt;
+    font-weight: 600;
+    padding: 1rem;
+}
+.red{
+    background-color: black;   
+    color: rgb(102, 99, 99);
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16pt;
+    font-weight: 600;
+    padding: 1rem;
+}
+.green{
+    color: rgb(255, 255, 6);
+}
+.bb{
+    margin: 10px;
+    padding: 30px;
+    border: 1px solid rgb(55, 55, 55);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16pt;
+    font-weight: 600;
+}
+.im{
+    color: goldenrod;
+}

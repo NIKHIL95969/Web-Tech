@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    background-color: black;
+    color: white;
+}
+.nav-list{
+    display: flex;
+    justify-content: left;
+    text-decoration: none;
+}
+.con{
+    margin: 30px 20px;
+    background: rgb(104, 104, 195);
+    border-radius: 2px;
+    
+}
