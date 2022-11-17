@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    /* margin: 20px; */
+    padding: 20px;
+    background: rgb(113, 113, 243);
+    color: white;
+}
